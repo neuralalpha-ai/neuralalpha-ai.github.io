@@ -17,12 +17,11 @@ NeuralAlpha（以下「当方」）は、Googleスプレッドシート用アド
 
 ## 2. 外部に送信する情報
 - **Gビズインフォ（経済産業省）のAPI**：法人を検索するため、会社名（および法人番号）を送信します。住所のセルの値は送信せず、本アドオン内で照合にのみ使います。
-- **Gumroad**：有料プランの確認のため、利用者が入力したライセンスキーを送信します。
 
 ## 3. 保存する情報
 - 当方は、利用者のスプレッドシートの内容を当方のサーバーに保存しません（当方はサーバーを運用していません）。
 - 同じ問い合わせを繰り返さないため、Gビズインフォの検索結果（公開されている法人情報）をGoogle Apps Scriptのキャッシュに最大6時間保存します。
-- 月ごとの利用行数とライセンスキーを、Google Apps Scriptのユーザープロパティ（利用者ごとの設定領域）に保存します。
+- 月ごとの利用行数を、Google Apps Scriptのユーザープロパティ（利用者ごとの設定領域）に保存します。
 
 ## 4. 第三者提供・販売
 当方は、利用者のデータを販売せず、広告目的で利用せず、上記2以外の第三者に提供しません。
@@ -31,7 +30,7 @@ NeuralAlpha（以下「当方」）は、Googleスプレッドシート用アド
 本アドオンによるGoogle APIから受け取った情報の使用および他のアプリへの転送は、[Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy)（Limited Use の要件を含む）に従います。
 
 ## 6. お問い合わせ
-[GitHub Issues](https://github.com/neuralalpha-ai/neuralalpha-ai.github.io/issues)
+neuralalpha-support@googlegroups.com（メール）または [GitHub Issues](https://github.com/neuralalpha-ai/neuralalpha-ai.github.io/issues)
 
 ## 7. 改定
 本ポリシーを改定する場合は、このページで告知します。
