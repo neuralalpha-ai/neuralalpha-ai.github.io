@@ -12,4 +12,4 @@ title: NeuralAlpha
 - 書籍：[Gumroad](https://neuralalpha.gumroad.com/) ／ [Zenn](https://zenn.dev/neuralalpha)
 - コード：[GitHub](https://github.com/neuralalpha-ai)
 
-お問い合わせ：[GitHub Issues](https://github.com/neuralalpha-ai/neuralalpha-ai.github.io/issues)
+お問い合わせ：neuralalpha-support@googlegroups.com（メール）または [GitHub Issues](https://github.com/neuralalpha-ai/neuralalpha-ai.github.io/issues)
